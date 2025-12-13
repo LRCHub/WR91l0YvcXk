@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "怪獣とヒーロー",
+  "base_artist": "Vuat",
+  "createdAt": "2025-12-13T18:01:41.852111Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪獣とヒーロー",
+      "artist": "Vuat",
+      "has_synced": false,
+      "path": "select/pl_01_怪獣とヒーロー_Vuat.txt"
+    }
+  ]
+}
